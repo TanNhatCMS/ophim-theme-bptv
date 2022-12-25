@@ -17,11 +17,11 @@
 https://github.com/hacoidev/ophim-core
 
 ## Install
-1. Tại thư mục của Project: `composer require ophimcms/theme-bptv`
+1. Tại thư mục của Project: `composer require tannhatcms/theme-bptv`
 2. Kích hoạt giao diện trong Admin Panel
 
 ## Update
-1. Tại thư mục của Project: `composer update ophimcms/theme-bptv`
+1. Tại thư mục của Project: `composer update tannhatcms/theme-bptv`
 2. Re-Activate giao diện trong Admin Panel
 
 ## Note
