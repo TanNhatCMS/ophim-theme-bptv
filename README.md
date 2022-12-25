@@ -14,7 +14,7 @@
 ![Alt text](https://i.ibb.co/zFL4LKT/BPTV-EPISODE.png "Episode Page")
 
 ## Requirements
-https://github.com/hacoidev/ophim-core
+https://github.com/TanNhatCMS/ophim-core
 
 ## Install
 1. Tại thư mục của Project: `composer require tannhatcms/theme-bptv`
